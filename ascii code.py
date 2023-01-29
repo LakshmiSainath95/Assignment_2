@@ -11,5 +11,5 @@ print(my_dict)
 
 # Program to find the ASCII value of the given character
 
-my_dict = input("Enter a alphabet:")
+my_dict = input("Enter a alphabet:")            # Enter a alphapet for which u wanna check its ascii value
 print("The ASCII value of '" + my_dict + "' is", ord(my_dict))
